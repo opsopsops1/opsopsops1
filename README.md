@@ -1,4 +1,4 @@
-![](https://github.com/opsopsops1/opsopsops1/blob/master/resource/taiko_3D.gif?raw=true)
+![taiko_3D](https://user-images.githubusercontent.com/53346710/186449590-0bd343a1-b148-4e2d-a4e9-b15c1cddf7f8.gif)
 
 ### Hi there 👋
 
