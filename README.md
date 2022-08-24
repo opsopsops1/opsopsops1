@@ -5,23 +5,21 @@
 
 
 
-### Tech & Tools Preference
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> 
-<img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> 
+### Tech & Tools Preference 💻
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ### Other Languages I know
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> 
-<img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> 
-<img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
 
 ### You can find in me 🌍
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)[linkedin] 
-![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)[twitter] 
-![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)[mail]
+![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)(https://twitter.com/opsopsops1/) 
+![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)[mail](opsopspopopoops@gmail.com)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)(https://www.linkedin.com/)
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/53346710/186476628-e1a83d8d-c95b-490d-b11f-2a4ee9d99b3d.gif" />
 
